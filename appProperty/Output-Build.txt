@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: appProperty, Configuration: Debug Any CPU ------
+1>C:\cluna\ProjectGit\AppProperty\appProperty\Controllers\OfferContext\OfferContextController.cs(13,50,13,73): warning CS0649: Field 'OfferContextController._adminContextRepository' is never assigned to, and will always have its default value null
+1>C:\cluna\ProjectGit\AppProperty\appProperty\Views\Admin\Login.cshtml(54,14,54,46): warning MVC1000: Use of IHtmlHelper.Partial may result in application deadlocks. Consider using <partial> Tag Helper or IHtmlHelper.PartialAsync.
+1>appProperty -> C:\cluna\ProjectGit\AppProperty\appProperty\bin\Debug\netcoreapp3.1\appProperty.dll
+1>appProperty -> C:\cluna\ProjectGit\AppProperty\appProperty\bin\Debug\netcoreapp3.1\appProperty.Views.dll
+1>Done building project "appProperty.csproj".
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
